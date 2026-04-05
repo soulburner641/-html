@@ -1,7 +1,10 @@
-# Single Page CV
+# Single-Page CV (roadmap.sh Project)
 
-This is my solution for the [Single Page CV project on roadmap.sh](sslocal://flow/file_open?url=https%3A%2F%2Froadmap.sh%2Fprojects%2Fsingle-page-cv&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=).
+## Project Link
+https://roadmap.sh/projects/single-page-cv
 
-Built with HTML & CSS.
+## Solution Repository
+https://github.com/soulburner641/-html
 
-Project repository: https://github.com/soulburner641/-html
+## Tech Stack
+HTML, CSS
